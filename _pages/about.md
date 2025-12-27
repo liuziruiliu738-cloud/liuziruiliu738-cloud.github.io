@@ -6,7 +6,7 @@ subtitle: A student who was in UCHS.
 
 profile:
   align: right
-  image: bryan_selfie.jpg
+  
   image_circular: false # crops the image to make it circular
   address: >
     <p>8875 Towers at Costa Verde</p>
