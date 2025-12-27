@@ -8,7 +8,7 @@ profile:
   align: right
   image: bryan_selfie.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  address: >
     <p>8875 Towers at Costa Verde</p>
     <p>California, San Diego</p>
 
