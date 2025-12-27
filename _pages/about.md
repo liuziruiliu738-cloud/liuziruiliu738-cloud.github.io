@@ -1,17 +1,16 @@
 ---
 layout: about
-title: Bryan Liu
+title: "Bryan Liu"
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: A student who was in UCHS.
 
 profile:
   align: right
-  image: Weixin pic of Bryan.jpg
+  image: bryan_selfie.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>8875 Towers at Costa Verde</p>
+    <p>California, San Diego</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
