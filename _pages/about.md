@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "Bryan Liu"
+title: about
 permalink: /
 subtitle: A student who was in UCHS.
 
