@@ -384,16 +384,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-using-github-and-vscode-to-create-my-protfolio",
+          title: 'Using Github and VScode to create my protfolio',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-arrived-back-to-america",
+          title: 'Arrived back to America',
+          description: "",
+          section: "News",},{id: "news-i-finished-the-first-semester-in-uchs-sparkles-smile",
+          title: 'I finished the first semester in UCHS! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
