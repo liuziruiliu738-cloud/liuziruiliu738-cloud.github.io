@@ -384,15 +384,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-using-github-and-vscode-to-create-my-protfolio",
+            },},{id: "news-arrived-back-to-america",
+          title: 'Arrived back to America',
+          description: "",
+          section: "News",},{id: "news-using-github-and-vscode-to-create-my-protfolio",
           title: 'Using Github and VScode to create my protfolio',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-arrived-back-to-america",
-          title: 'Arrived back to America',
-          description: "",
-          section: "News",},{id: "news-i-finished-the-first-semester-in-uchs-sparkles-smile",
+            },},{id: "news-i-finished-the-first-semester-in-uchs-sparkles-smile",
           title: 'I finished the first semester in UCHS! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
