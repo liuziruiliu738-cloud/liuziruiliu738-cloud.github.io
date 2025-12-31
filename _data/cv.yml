@@ -6,12 +6,12 @@
     - name: Date of Birth
       value: 15th April 2012
     - name: Languages
-      value: English, Chinese, American
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: High School
+    - title: Senior High School
       institution: University Sity High School
       year: 2025
       description:
@@ -21,13 +21,13 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Middle School
+    - title: Junior High School
       institution: The No.2 High School Affliated to East China Normal University
       year: 2022
       description:
         - Description 1.
         - Description 2.
-- title: Experience
+- title: Working Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
@@ -61,33 +61,5 @@
       year: 1909 - 1911
 
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
   
