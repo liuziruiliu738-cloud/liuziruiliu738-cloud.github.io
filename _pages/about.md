@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: A student who was in UCHS.
+subtitle: A high student who was in UCHS.
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I was born in America, but I grow up in Shanghai China, I arrive back to America when I'm freshman. 
+I was born in America, but I grow up in Shanghai China, I arrive back to America when I'm ninth grade. 
 
      
        
