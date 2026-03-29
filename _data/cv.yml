@@ -58,7 +58,7 @@
         - Key findings or contributions.
 
 - title: Skills
-  type: list
+  type: map
   contents:
     - name: Category
       value: Skill 1, Skill 2, Skill 3
