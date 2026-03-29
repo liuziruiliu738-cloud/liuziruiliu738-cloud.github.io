@@ -26,7 +26,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I was born in America, but I grow up in Shanghai China, I arrive back to America when I'm ninth grade. 
+I was born in America, but I grow up in Shanghai China, I arrive back to America when I'm ninth grade.
+
+Academically, I have a strong passion for mathematics and am currently studying AP Statistics and AP Calculus BC. I plan to pursue Computer Science and Data Science in college, with the goal of becoming a programmer or game designer — building systems and experiences that bring ideas to life.
+
+During my years in China, I attended SMIC (Semiconductor Manufacturing International Corporation) Private Primary School and The Second Affiliated High School of East China Normal University. Those years shaped me in many ways — I developed a wide range of interests and hobbies including drumming, calligraphy, solving the Rubik's cube, and playing Go (围棋). I also had the memorable experience of traveling to Beijing and witnessing the Tiananmen military parade in person.
 
      
        
