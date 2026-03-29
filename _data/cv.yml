@@ -41,13 +41,34 @@
             - I work 2 hours each day in holidays, I'll go their Wednesday and Saturday in school days
             - I've got no salary for this work yet
     - title: Table Tennis coachs' assistant
-      institution: YuQun Table Tennis 
+      institution: YuQun Table Tennis
       year: 2024 Jan - Feb
       description:
         - Help my Table Tennis coach to teach student how to handle bracket and dealing with topspin ball
         - I got 100 RMB each day for helping 3 hours
 
-    
+- title: Research & Projects
+  type: time_table
+  contents:
+    - title: Project Title
+      institution: Institution or Context
+      year: Year
+      description:
+        - Description of the project or research.
+        - Key findings or contributions.
 
+- title: Skills
+  type: list
+  contents:
+    - name: Category
+      value: Skill 1, Skill 2, Skill 3
 
-  
+- title: Community & Leadership
+  type: time_table
+  contents:
+    - title: Role or Activity
+      institution: Organization
+      year: Year
+      description:
+        - Description of your involvement.
+        - Impact or outcome.
